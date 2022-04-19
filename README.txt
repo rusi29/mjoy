@@ -10,3 +10,6 @@ this is git test
 
 
 -- sourceTree second new branch2
+
+
+-- newBranch2이 수정된 상태에서 newBranch1를 수정
