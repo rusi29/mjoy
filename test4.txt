@@ -1,0 +1,7 @@
+this is dtail2 page
+
+<test>
+    DOCKER
+    Kubernetes
+    jenkins
+</test>
