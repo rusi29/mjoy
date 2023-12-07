@@ -21,3 +21,6 @@ this is git test
 -- newBranch2에서 merging 하였음
 
 -- newBranch1에서 pull 이후 merging 하였음
+
+
+-- 11/18 일 GIT 을 몇번이나 시작하는거냐....
