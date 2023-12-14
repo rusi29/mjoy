@@ -4,3 +4,10 @@ create by develop branch! 20231206
 
 dtail2 branch에서 수정
 dtail1 branch에서 수정
+
+newBranch1-2에서 수정
+newBranch1-2에서 수정2222
+newBranch1-2에서 수정3333
+newBranch1-2에서 수정4444
+newBranch1-2에서 수정5555
+newBranch1-2에서 수정6666
