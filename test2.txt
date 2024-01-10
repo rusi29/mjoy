@@ -20,6 +20,7 @@ newBranch1-2에서 수정12121212
 newBranch1-2에서 수정13131313
 newBranch1-2에서 수정14141414
 
-newBranch2 에서 수정11111111
+newBranch1 에서 수정11111111 이건 1에서 했었음
 
 오호.. 많이 차이가 나나....
+newBranch2에서 수정 - 여기가 진짜
