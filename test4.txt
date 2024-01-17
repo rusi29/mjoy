@@ -6,4 +6,5 @@ this is dtail2 page
     jenkins
     this is remote change
     hot fix test
+    maual update
 </test>
