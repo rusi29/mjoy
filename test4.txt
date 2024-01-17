@@ -5,4 +5,5 @@ this is dtail2 page
     Kubernetes
     jenkins
     this is remote change
+    maual update test
 </test>
